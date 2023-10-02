@@ -5,6 +5,8 @@ python-dotenv-1.0.0
 djangorestframework==3.14.0
 pytest==7.4.2
 pytest-django==4.5.2
+black==23.9.1
+flake8==6.1.0
 
 
 
@@ -22,3 +24,7 @@ pip install python-dotenv
 pip install pytest
 
 pip install pytest-django
+
+pip install black
+
+pip install flake8
