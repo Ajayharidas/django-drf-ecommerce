@@ -7,6 +7,7 @@ pytest==7.4.2
 pytest-django==4.5.2
 black==23.9.1
 flake8==6.1.0
+django-mptt==0.15.0
 
 <!-- Commands -->
 
@@ -27,3 +28,5 @@ pip install pytest-django
 pip install black
 
 pip install flake8
+
+pip install django-mptt
